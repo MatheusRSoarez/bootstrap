@@ -1,0 +1,78 @@
+ @import url('https://fonts.googleapis.com/css2?family=Kenia&family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+body
+{
+    background-color: rgb(183, 203, 245);
+}
+
+h3{
+    text-shadow: 10px 5px black;
+    font-family: 'Kenia', sans-serif;
+}
+
+.textoK
+{
+    font-family: 'Kenia', sans-serif;
+    font-size: 1.5em;
+}
+
+h2{
+    padding-top:2%;
+    padding-bottom: 1%;
+    font-family: 'Kenia', sans-serif;
+    font-size: 3em;
+}
+
+.corMatheus
+{
+    background-color:rgb(175, 226, 255);
+    
+}
+
+.imagemmenor
+{
+    width: 99.8%;
+    box-shadow: 10px 10px 10px grey;
+}
+
+.imagemmenor2
+{
+    width: 99.8%;
+    height: 90%;
+    margin-bottom: 2%;
+    border-radius: 3em;
+    box-shadow: 10px 10px 10px grey;
+}
+
+.icone
+{
+    width: 15%;
+}
+
+.justify
+{
+    text-align: justify;
+}
+
+.card
+{
+    box-shadow: 15px 15px 15px grey;
+}
+
+.text-center
+{
+    margin: 2%;
+}
+
+.container
+{
+    text-align: center;
+    margin: 5%;
+}
+
+.contorno
+{
+    background-color: aliceblue;
+    padding: 0 3% 3% 3% ;
+    border-radius: 3em;
+}
